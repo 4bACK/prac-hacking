@@ -1,7 +1,7 @@
 # prac-list
 
 WEB HACKING🌎🏴‍☠️
-1. 생활코딩 : html, css, javascript, php
+1. 생활코딩 html, css, javascript, php : https://opentutorials.org/
 2. webhacking.kr : https://webhacking.kr/
 3. root-me-org : https://www.root-me.org/?lang=en
 4. ctftime.org : https://ctftime.org/
