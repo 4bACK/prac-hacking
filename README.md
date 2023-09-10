@@ -7,4 +7,5 @@ WEB HACKING🌎🏴‍☠️
 4. ctftime.org : https://ctftime.org/
 5. lord of sql injection : https://los.rubiya.kr/
 6. network basic theory(TCP/IP) : https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=R3G-ROmVokylYWCI
+<br>
 javascript : https://developer.mozilla.org/ko/docs/Learn/JavaScript/Client-side_web_APIs
