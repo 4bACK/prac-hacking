@@ -1,8 +1,8 @@
 # prac-list
 
-WEB HACKING🌎🏴‍☠️
+🔰WEB HACKING🌎🏴‍☠️
 1. 코드업 : https://codeup.kr/index.php
-   - 기초 100제 , 58/100
+   - 기초 100제 , 58/100 ✅
 3. 코딩도장 : https://dojang.io/course/view.php?id=7
 4. 생활코딩 html, css, javascript, php : https://opentutorials.org/
 5. webhacking.kr : https://webhacking.kr/
