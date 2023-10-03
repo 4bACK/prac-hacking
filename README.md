@@ -4,7 +4,7 @@
 1. 코드업 : https://codeup.kr/index.php
    - 기초 100제 , 58/100 ✅
 3. 코딩도장 : https://dojang.io/course/view.php?id=7
-4. 생활코딩 html, css, javascript, php : https://opentutorials.org/
+4. 생활코딩 html, css, javascript, php : https://opentutorials.org/course/1
 5. webhacking.kr : https://webhacking.kr/
 6. root-me-org : https://www.root-me.org/?lang=en
 7. ctftime.org : https://ctftime.org/
