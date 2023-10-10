@@ -5,12 +5,14 @@
    - 기초 100제 , 58/100 ✅
 3. 코딩도장 : https://dojang.io/course/view.php?id=7
 4. 생활코딩 html, css, javascript, php : https://opentutorials.org/course/1
+   - Web2 - HTML , Complete ✅
+   - Web2 - CSS , Complete ✅
    - Web2 - Javascript , 4/30 ✅
-5. webhacking.kr : https://webhacking.kr/
-6. root-me-org : https://www.root-me.org/?lang=en
-7. ctftime.org : https://ctftime.org/
-8. lord of sql injection : https://los.rubiya.kr/
-9. network basic theory(TCP/IP) : https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=R3G-ROmVokylYWCI
+6. webhacking.kr : https://webhacking.kr/
+7. root-me-org : https://www.root-me.org/?lang=en
+8. ctftime.org : https://ctftime.org/
+9. lord of sql injection : https://los.rubiya.kr/
+10. network basic theory(TCP/IP) : https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=R3G-ROmVokylYWCI
 <br>
 javascript : https://developer.mozilla.org/ko/docs/Learn/JavaScript/Client-side_web_APIs
 
