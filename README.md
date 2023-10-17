@@ -7,7 +7,7 @@
 4. 생활코딩 html, css, javascript, php : https://opentutorials.org/course/1
    - Web2 - HTML , Complete ✅
    - Web2 - CSS , Complete ✅
-   - Web2 - Javascript , 21/30 ✅
+   - Web2 - Javascript , Complete ✅
 6. webhacking.kr : https://webhacking.kr/
 7. root-me-org : https://www.root-me.org/?lang=en
 8. ctftime.org : https://ctftime.org/
