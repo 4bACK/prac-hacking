@@ -10,10 +10,14 @@
    - Web2 - Javascript , Complete ✅
    - Web2 - PHP , 7/28 ✅
 6. webhacking.kr : https://webhacking.kr/
-7. root-me-org : https://www.root-me.org/?lang=en
-8. ctftime.org : https://ctftime.org/
-9. lord of sql injection : https://los.rubiya.kr/
-10. network basic theory(TCP/IP) : https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=R3G-ROmVokylYWCI
+|------|---|---|
+|old-01|old-06|old-16|
+|old-17|old-24|old-26|
+|old-54|-|-|
+8. root-me-org : https://www.root-me.org/?lang=en
+9. ctftime.org : https://ctftime.org/
+10. lord of sql injection : https://los.rubiya.kr/
+11. network basic theory(TCP/IP) : https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=R3G-ROmVokylYWCI
 <br>
 javascript : https://developer.mozilla.org/ko/docs/Learn/JavaScript/Client-side_web_APIs
 
