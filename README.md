@@ -10,10 +10,12 @@
    - Web2 - Javascript , Complete ✅
    - Web2 - PHP , 7/28 ✅
 6. webhacking.kr : https://webhacking.kr/
-|------|---|---|
-|old-01|old-06|old-16|
-|old-17|old-24|old-26|
-|old-54|-|-|
+
+|Challenge|
+|------|
+|old-26, old-16|
+|old-54, old-06|
+|old-24, old-17, old-01|
 8. root-me-org : https://www.root-me.org/?lang=en
 9. ctftime.org : https://ctftime.org/
 10. lord of sql injection : https://los.rubiya.kr/
