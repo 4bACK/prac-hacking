@@ -13,8 +13,8 @@
 
 |Challenge|
 |------|
-|old-26, old-16|
-|old-54, old-06|
+|old-26, old-16, old-39|
+|old-54, old-18, old-14, old-06|
 |old-24, old-17, old-01|
 8. root-me-org : https://www.root-me.org/?lang=en
 9. ctftime.org : https://ctftime.org/
